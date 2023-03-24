@@ -3,7 +3,7 @@
 - 👯 Interested in games, cryptography, cybersec, mechatronics, robotics, telemetry, open source projects
 - 📫 How to reach me: discord `telekrex#2347`
 
-I like software that's light on features, let's the user play with the insides, and uses non-proprietary file formats
+I like software that's features are focused, let's the user work under the hood, and utlizes non-proprietary file formats
 
 ## Skillstack
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
