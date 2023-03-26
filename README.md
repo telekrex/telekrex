@@ -1,7 +1,7 @@
 
 - 🔭 Currently working on [Skyfear](https://store.steampowered.com/app/814330/Skyfear/)
-- 👯 Interested in games, cryptography, cybersec, mechatronics, robotics, telemetry, open source, self hosted
 - 📫 How to reach me: discord `telekrex#2347`
+- 👯 Interested in games, cryptography, cybersec, mechatronics, robotics, telemetry, open source, self hosted
 
 I like software that's features are focused, let's the user work under the hood, and utlizes non-proprietary file formats
 
