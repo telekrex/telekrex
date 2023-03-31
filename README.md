@@ -1,9 +1,12 @@
+Self taught master of none. Programmer, game maker, 3D artist, working on [Skyfear](https://store.steampowered.com/app/814330/Skyfear/). 
 
-- 🔭 Currently working on [Skyfear](https://store.steampowered.com/app/814330/Skyfear/)
-- 📫 How to reach me: discord `telekrex#2347`
-- 👯 Interested in games, cryptography, cybersec, mechatronics, robotics, telemetry, open source, self hosted
+Interested in games, cryptography, cybersec, robotics/mechatronics, aquariums, telemetry, open source, self hosted.
 
-I like software that's features are focused, let's the user work under the hood, and utlizes non-proprietary file formats
+I like software that's light, focused on the right features, let's the user work under the hood, and uses non-proprietary file formats.
+
+If your app can run smoothly offline right on the hard drive, you deserve a cookie. 🍪
+
+Best way to contact me is Discord, same username.
 
 ## Skillstack
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -27,6 +30,5 @@ I like software that's features are focused, let's the user work under the hood,
 ![](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
 ![](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-![](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
 ![](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)
