@@ -1,12 +1,8 @@
 Self taught master of none. Programmer, game maker, 3D artist, working on [Skyfear](https://store.steampowered.com/app/814330/Skyfear/). 
 
-Interested in games, cryptography, cybersec, robotics/mechatronics, aquariums, telemetry, open source, self hosted.
+Games, cryptography, cybersec, robotics/mechatronics, aquariums, telemetry, open source, self hosted.
 
-I like software that's light, focused on the right features, let's the user work under the hood, and uses non-proprietary file formats.
-
-If your app can run smoothly offline right on the hard drive, you deserve a cookie. 🍪
-
-Best way to contact me is Discord, same username.
+If your app can run offline, you get a cookie 🍪
 
 ## Skillstack
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
