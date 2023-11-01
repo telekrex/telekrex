@@ -1,6 +1,6 @@
 If your software can run offline, you get a cookie 🍪
 
-Self taught master of none. Programmer, game maker, 3D artist, working on [Skyfear](https://store.steampowered.com/app/814330/Skyfear/). 
+Programmer, game designer, 3D artist, working on [Skyfear](https://store.steampowered.com/app/814330/Skyfear/). 
 
 ## Skillstack
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
