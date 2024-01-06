@@ -1,3 +1,4 @@
+Bleeding edge is cool, but hardiness and portability are cooler.
 If your software can run offline, you get a cookie 🍪
 
 Programmer, game designer, 3D artist, working on [Skyfear](https://store.steampowered.com/app/814330/Skyfear/). 
