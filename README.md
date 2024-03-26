@@ -1,6 +1,6 @@
-Programmer, game designer, 3D artist, working on [Skyfear](https://store.steampowered.com/app/814330/Skyfear/). 
+Software & entertainment engineer, mostly working on [Skyfear](https://store.steampowered.com/app/814330/Skyfear/)
 
-## Skillstack
+## toolbox
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
