@@ -5,5 +5,5 @@ Public domain works:
 [Colorbase](https://github.com/telekrex/colorbase), display color checker  
 [Wart](https://github.com/telekrex/wart), interactive fiction framework  
 [Trailcam Distance Sampling](https://github.com/telekrex/trailcam-distance-sampling), attempted study  
-[Basilisk](https://github.com/telekrex/basilisk), shape-shifting encryption cipher
-[Time Vault](https://github.com/telekrex/time-vault), philisophical script
+[Basilisk](https://github.com/telekrex/basilisk), shape-shifting encryption cipher  
+[Time Vault](https://github.com/telekrex/time-vault), philisophical script  
