@@ -6,3 +6,4 @@ Public domain works:
 [Wart](https://github.com/telekrex/wart), interactive fiction framework  
 [Trailcam Distance Sampling](https://github.com/telekrex/trailcam-distance-sampling), attempted study  
 [Basilisk](https://github.com/telekrex/basilisk), shape-shifting encryption cipher
+[Time Vault](https://github.com/telekrex/time-vault), philisophical script
