@@ -1,3 +1,5 @@
+Writer, coder/programmer, designer, musician, artist
+
 Public domain work  
 [Riot Shield](https://github.com/telekrex/riot-shield), URL instakill  
 [Colorbase](https://github.com/telekrex/colorbase), display color checker  
