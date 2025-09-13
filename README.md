@@ -4,8 +4,8 @@ Public domain work
 [Riot Shield](https://github.com/telekrex/riot-shield), URL instakill  
 [Colorbase](https://github.com/telekrex/colorbase), display color checker  
 [Wart](https://github.com/telekrex/wart), interactive fiction framework  
-[Symbolacra](https://github.com/telekrex/symbolacra), a thought experiment about talking to your subconscious
-[Trailcam Distance Sampling](https://github.com/telekrex/trailcam-distance-sampling), attempted study  
+[Symbolacra](https://github.com/telekrex/symbolacra), a thought experiment about talking to your subconscious  
+[Trailcam Distance Sampling](https://github.com/telekrex/trailcam-distance-sampling), attempted population study  
 [Basilisk](https://github.com/telekrex/basilisk), shape-shifting encryption cipher  
 [Time Vault](https://github.com/telekrex/time-vault), philisophical script  
 [Gizmo](https://github.com/telekrex/gizmo), an automation tool I use every day
