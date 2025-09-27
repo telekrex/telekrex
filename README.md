@@ -9,6 +9,7 @@ Public domain releases
 [Basilisk](https://github.com/telekrex/basilisk), shape-shifting encryption cipher  
 [Time Vault](https://github.com/telekrex/time-vault), philisophical script  
 [Gizmo](https://github.com/telekrex/gizmo), an automation tool I use every day  
+[Corvo](https://github.com/telekrex/corvo), a local project manager  
 
 Video games I've made  
 [Skyfear](https://store.steampowered.com/app/814330/Skyfear/), dragon arena shooter  
