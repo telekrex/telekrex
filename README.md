@@ -24,5 +24,5 @@ I happily share my creative influences:
 
 "Software is machinery made of language."  
 "If you have knowledge, let others light their candles at it" – Margaret Fuller  
-Locally powered software >  
+Decentralization, Local first software >  
 My only goal in life is to use free will
