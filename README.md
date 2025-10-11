@@ -24,5 +24,7 @@ I happily share my creative influences:
 
 "Software is machinery made of language."  
 "If you have knowledge, let others light their candles at it" – Margaret Fuller  
-Decentralization, Local first software >  
-My only goal in life is to use free will
+Local compute >  
+My only goal in life is to use free will  
+Individual liberty x Human spirit x Decentralization x Transparency x Education  
+It's like The Matrix, except, I don't like dark rooms.
