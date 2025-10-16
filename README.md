@@ -10,7 +10,7 @@ Public domain releases
 [Distance Sampling](https://github.com/telekrex/trailcam-distance-sampling), attempted population study  
 [Wart](https://github.com/telekrex/wart), interactive fiction framework  
 [Symbolacra](https://github.com/telekrex/symbolacra), divination of your subconscious  
-[Time Vault](https://github.com/telekrex/time-vault), philisophical script  
+[Time Vault](https://github.com/telekrex/time-vault), how much time have you got left?  
 
 Video games I've made  
 [Skyfear](https://store.steampowered.com/app/814330/Skyfear/), dragon arena shooter  
