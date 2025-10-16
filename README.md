@@ -1,15 +1,16 @@
 Writer, coder/programmer, designer, musician, artist  
 
 Public domain releases  
-[Riot Shield](https://github.com/telekrex/riot-shield), URL instakill  
-[Colorbase](https://github.com/telekrex/colorbase), display color checker  
-[Wart](https://github.com/telekrex/wart), interactive fiction framework  
-[Symbolacra](https://github.com/telekrex/symbolacra), a thought experiment about talking to your subconscious  
-[Trailcam Distance Sampling](https://github.com/telekrex/trailcam-distance-sampling), attempted population study  
-[Basilisk](https://github.com/telekrex/basilisk), shape-shifting encryption cipher  
-[Time Vault](https://github.com/telekrex/time-vault), philisophical script  
 [Gizmo](https://github.com/telekrex/gizmo), an automation tool I use every day  
-[Corvo](https://github.com/telekrex/corvo), a local project manager  
+[Corvo](https://github.com/telekrex/corvo), a local project manager tool  
+[Riot Shield](https://github.com/telekrex/riot-shield), URL instakill tool  
+[Colorbase](https://github.com/telekrex/colorbase), display color checker tool  
+[Basilisk](https://github.com/telekrex/basilisk), encryption cipher tool  
+
+[Distance Sampling](https://github.com/telekrex/trailcam-distance-sampling), attempted population study  
+[Wart](https://github.com/telekrex/wart), interactive fiction framework  
+[Symbolacra](https://github.com/telekrex/symbolacra), divination of your subconscious  
+[Time Vault](https://github.com/telekrex/time-vault), philisophical script  
 
 Video games I've made  
 [Skyfear](https://store.steampowered.com/app/814330/Skyfear/), dragon arena shooter  
