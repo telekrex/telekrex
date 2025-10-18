@@ -2,6 +2,7 @@ Writer, coder/programmer, designer, musician, artist
 
 Public domain releases  
 [Gizmo](https://github.com/telekrex/gizmo), an automation tool I use every day  
+[Headjack](https://github.com/telekrex/headjack), an offline music player  
 [Corvo](https://github.com/telekrex/corvo), a local project manager tool  
 [Riot Shield](https://github.com/telekrex/riot-shield), URL instakill tool  
 [Colorbase](https://github.com/telekrex/colorbase), display color checker tool  
